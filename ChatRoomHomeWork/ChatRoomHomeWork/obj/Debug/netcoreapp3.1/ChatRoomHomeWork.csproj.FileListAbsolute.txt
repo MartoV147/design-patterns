@@ -1,0 +1,13 @@
+C:\Users\Gladitorian\source\repos\ChatRoomHomeWork\ChatRoomHomeWork\obj\Debug\netcoreapp3.1\ChatRoomHomeWork.csprojAssemblyReference.cache
+C:\Users\Gladitorian\source\repos\ChatRoomHomeWork\ChatRoomHomeWork\obj\Debug\netcoreapp3.1\ChatRoomHomeWork.AssemblyInfoInputs.cache
+C:\Users\Gladitorian\source\repos\ChatRoomHomeWork\ChatRoomHomeWork\obj\Debug\netcoreapp3.1\ChatRoomHomeWork.AssemblyInfo.cs
+C:\Users\Gladitorian\source\repos\ChatRoomHomeWork\ChatRoomHomeWork\obj\Debug\netcoreapp3.1\ChatRoomHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\Gladitorian\source\repos\ChatRoomHomeWork\ChatRoomHomeWork\bin\Debug\netcoreapp3.1\ChatRoomHomeWork.exe
+C:\Users\Gladitorian\source\repos\ChatRoomHomeWork\ChatRoomHomeWork\bin\Debug\netcoreapp3.1\ChatRoomHomeWork.deps.json
+C:\Users\Gladitorian\source\repos\ChatRoomHomeWork\ChatRoomHomeWork\bin\Debug\netcoreapp3.1\ChatRoomHomeWork.runtimeconfig.json
+C:\Users\Gladitorian\source\repos\ChatRoomHomeWork\ChatRoomHomeWork\bin\Debug\netcoreapp3.1\ChatRoomHomeWork.runtimeconfig.dev.json
+C:\Users\Gladitorian\source\repos\ChatRoomHomeWork\ChatRoomHomeWork\bin\Debug\netcoreapp3.1\ChatRoomHomeWork.dll
+C:\Users\Gladitorian\source\repos\ChatRoomHomeWork\ChatRoomHomeWork\bin\Debug\netcoreapp3.1\ChatRoomHomeWork.pdb
+C:\Users\Gladitorian\source\repos\ChatRoomHomeWork\ChatRoomHomeWork\obj\Debug\netcoreapp3.1\ChatRoomHomeWork.dll
+C:\Users\Gladitorian\source\repos\ChatRoomHomeWork\ChatRoomHomeWork\obj\Debug\netcoreapp3.1\ChatRoomHomeWork.pdb
+C:\Users\Gladitorian\source\repos\ChatRoomHomeWork\ChatRoomHomeWork\obj\Debug\netcoreapp3.1\ChatRoomHomeWork.genruntimeconfig.cache
